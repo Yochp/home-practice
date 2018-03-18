@@ -1,0 +1,58 @@
+
+.c_display{
+    height: 50px;
+    width: 277px;
+    background-color: rgb(196, 214, 218);
+    font-size: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis; 
+}
+
+
+
+
+
+.Btns{
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+}
+
+.Btns:hover{
+
+    background-color: white; 
+    color: black; 
+    border: 0.5px solid #008CBA;
+}
+
+.ev{
+    background-color: black;
+
+}
+.ev:hover{
+
+    background-color: rgb(155, 153, 153); 
+    color: black; 
+    border: 0.5px solid #008CBA;
+}
+.clr{
+    background-color: rgb(95, 40, 40);
+
+}
+.clr:hover{
+
+    background-color: rgb(155, 153, 153); 
+    color: rgb(167, 14, 14); 
+    border: 0.5px solid #008CBA;
+}
+
+
+
+

@@ -1,6 +1,6 @@
 
 
-
+// im used eval func, i didnt know that u asked not to use this func.next tim (25/3/18)
 function calc_FNC(){
 
   try {
